@@ -1,0 +1,47 @@
+.card {
+  background-color: #0000fe;
+  width: 300px;
+  height: 350px;
+  text-align: center;
+  border-radius: 12px;
+  border: 2px solid black;
+}
+
+.title {
+  font-weight: 300;
+  font-family: "Cormorant SC", serif;
+  font-size: 22px;
+  color: black;
+}
+
+.card-title {
+  color: #ffffff;
+  font-family: "Cormorant SC", serif;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.card-text {
+  color: #a39fff;
+  font-family: "Cormorant SC", serif;
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 30px;
+  display: block;
+}
+
+.card-button {
+  text-align: center;
+  display: block;
+  width: 250px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: black;
+  font-size: 22px;
+  font-family: "Gentium Book Plus", serif;
+  color: white;
+  text-decoration: none;
+  font-weight: 900;
+  box-sizing: border-box;
+  margin: auto;
+}
